@@ -9,9 +9,10 @@ I had three tasks to do
 * Convert the design to be accessible for screen reader use
 *  Add a service worker to begin the process of creating a seamless offline experience for your users
 
-## learn how to fix pre-existing application code to meet the spesification required
+## The Project Purpose
+Learning how to fix pre-existing application code to meet the spesification required.
 
-## How to Run the Application
+## How to Run the Application?
 1. Clone the repository to your local machine or download the project
 2. start up a simple HTTP server to serve up the site files on your local computer
     * In a terminal check if you already have Node.js and npm installed by typing: `node -v` and  `npm -v` , or you can install NodeJS and npm by going to [Node's official site](https://nodejs.org/en/) and downloading the latest version of NodeJS.
